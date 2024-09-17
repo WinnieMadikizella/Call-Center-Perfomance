@@ -1,1 +1,2 @@
-# Call-Center-Perfomance
+# Call Center Performance Dashboard
+I've just completed Call Center Performance Dashboard designed to provide actionable insights into key metrics such as - Overall Customer Satisfaction, Calls Answered vs. Abandoned, Average Speed of Answer & Agent Performance Analysis. This dashboard helps visualize crucial data trends, identify top performers, and optimize call center operations, all in one interactive and user-friendly interface.
